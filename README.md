@@ -1,5 +1,3 @@
-# Lorann
-Lorann V2 by Cesi Exia.
+Projet Lorann
 
-
-Lorann V2.0 made by Idriss lcf, Fares Amr, Smain Tzr, Adel Cht.
+voir le fichier javadoc dans le programme
